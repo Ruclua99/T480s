@@ -1,8 +1,8 @@
-# T480S-OpenCore-Hackintosh
+# T480S-OpenCore-Hackintosh [Hoangvupc.xyz](https://hoangvupc.xyz/)
 
 <img align="right" src="https://laptopvang.com/wp-content/uploads/2018/05/2-5.jpg" alt="T480 macOS" width="1000">
 
-[Hoangvupc.xyz](https://hoangvupc.xyz/)
+
 ## Introduction
 
 <details>
