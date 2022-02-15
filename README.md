@@ -14,8 +14,8 @@
 | --------- | --------------------------------- | ------------------------------------------------------------ |
 | CPU       | Intel Core i7-8550U               | 20L50000MC                                                   |
 | GPU       | Intel UHD 620                     |                                                              |
-| SSD       | 500GB   | Replaced cursed PM 981 which stil doesn't work reliably      |
-| Memory    | 8+16GB DDR4 2400Mhz               |                                                              |
+| SSD       | 500GB 
+| Memory    | 8x2 DDR4 2400Mhz               |                                                              |
 | Battery   | Dual battery                      |                                                              |
 | Camera    | 720p Camera                       |                                                              |
 | Wifi & BT | WIFI real mac                          |                                                              |
@@ -49,7 +49,7 @@
 - [x] Boot menu
 - [x] CPU power management / performance 
 - [x] GPU UHD 620 hardware acceleration / performance 
-- [x] HDMI 
+- [x] HDMI working all port `testing on 2 screen on TB3 and hdmi`
 - [x] iMessage, FaceTime, App Store, iTunes Store.
 - [x] Intel I219V Ethernet port
 - [x] Keyboard 
