@@ -1,6 +1,6 @@
 # T480S-OpenCore-Hackintosh
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgianguyenstore.vn%2Flenovo-t480s-1&psig=AOvVaw2tzwB8HtugAnjWLxS7yU_h&ust=1644970116617000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDr4a61gPYCFQAAAAAdAAAAABAJ" alt="T480 macOS" width="1000">
+<img align="right" src="https://laptopvang.com/wp-content/uploads/2018/05/2-5.jpg" alt="T480 macOS" width="1000">
 
 
 ## Introduction
