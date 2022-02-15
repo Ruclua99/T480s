@@ -1,6 +1,6 @@
 # T480S-OpenCore-Hackintosh
 
-<img align="right" src="https://github.com/EETagent/T480-OpenCore-Hackintosh/raw/master/Other/README_Resources/ThinkPad.gif" alt="T480 macOS" width="430">
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgianguyenstore.vn%2Flenovo-t480s-1&psig=AOvVaw2tzwB8HtugAnjWLxS7yU_h&ust=1644970116617000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDr4a61gPYCFQAAAAAdAAAAABAJ" alt="T480 macOS" width="1000">
 
 
 ## Introduction
